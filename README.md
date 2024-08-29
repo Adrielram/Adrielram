@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adrielram
-- 👀 I’m interested in coding
+- 👀 I’m in love with coding and problem solving
 - 🌱 Systems Engineering Student
 
 <!---

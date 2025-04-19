@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: 5v5 soccer Reinforcement Learning environment<br>🌱 Currently learning: Reinforcement learning techniques & algorithms, Next.js, MongoDB, LLMs (Multi-Agent Control and Planning)<br>💬 Ask me about: Reinforcement learning, environment design, web dev with Next.js & MongoDB, integrating LLMs into autonomous agent systems
+🔭 Currently working on: 5v5 soccer Reinforcement Learning environment<br>🌱 Currently learning: Reinforcement learning techniques & algorithms, Next.js, MongoDB, LLMs (Multi-Agent Control and Planning)<br>💬 Ask me about: Anything! Reinforcement learning, environment design, web dev with Next.js & MongoDB, integrating LLMs into autonomous agent systems..
 
 
 ## 🌐 Socials:

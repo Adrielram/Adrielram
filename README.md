@@ -1,7 +1,20 @@
 ![Header](./github-header-image.png)
 # About Me:
-Currently working on: 5v5 soccer Reinforcement Learning environment<br> Currently learning: Reinforcement learning techniques & algorithms, Next.js, MongoDB, LLMs (Multi-Agent Control and Planning)<br> Ask me about: Anything! Reinforcement learning, environment design, web dev with Next.js & MongoDB, integrating LLMs into autonomous agent systems..
+Software Engineer | AI Engineer | Full Stack Developer
+I build full-stack applications that solve real problems and drive measurable impact. Currently based in Buenos Aires, Argentina 🇦🇷
 
+# 🚀 What I Do
+I specialize in creating intelligent systems and scalable web applications. My sweet spot is combining AI/ML with solid engineering to ship products that users actually want to use.
+
+# Recent highlights:
+💼 Engineered payment system serving 2000+ gym members (60% overhead reduction, 85% faster billing)
+🤖 Led teams building LLM-powered platforms with RAG for healthcare and education
+🎓 Graduated with honors from UNICEN with 3.3 GPA in Software Engineering
+
+# 🎯 What I'm Up To
+🔭 Currently looking for challenging full-stack/AI engineering roles
+🌱 Deepening expertise in LLM orchestration and multi-agent systems
+💡 Building side projects with LangGraph and Azure AI
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adriel-ferrero) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrielramf@gmail.com) 
